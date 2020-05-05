@@ -1,6 +1,8 @@
 # Welcome to this nodejs draft sandbox.
 
 ## Some basic npm commands
+| Command | Description |
+| ------ | ------ |
 **npm -v** version of npm
 **sudo npm i - g package**  install globally the package  package@version
 **npm init**   create the basic boilerplate package.json making questions setings
