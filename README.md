@@ -21,9 +21,11 @@
 ## Semantic Versioning
 https://semver.org/
 
-4.4.1 // Major.Min.Patch.
-4.4.2 // was created a bugfix.
-4.5.0 // was created a enhanced without changes actual API.
-5.0.0 // was created a API change.
-^4.4.1 is interesting only in Major version 4.x.x  Caret.
-~1.8.7 is interesing in Major.Minor  1.8.x   Tilde.
+4.4.1 // Major.Min.Patch.  
+4.4.2 // was created a bugfix.  
+4.5.0 // was created a enhanced without changes actual API.  
+5.0.0 // was created a API change.  
+^4.4.1 is interesting only in Major version 4.x.x  Caret.  
+~1.8.7 is interesing in Major.Minor  1.8.x   Tilde.  
+
+https://dillinger.io/  
