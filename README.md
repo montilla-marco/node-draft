@@ -1,20 +1,20 @@
 # Welcome to this nodejs draft sandbox.
 
-npm:
-npm -v version of npm
-sudo npm i - g package  install globally the package  package@version
-npm init   create the basic package.json making questions setings
-npm init --yes sets all default values
-npm i package install dependency
-npm list list dependencies three
-npm list --depth=0 list all app dependencies
-npm view package list all metadata about package
-npm view package dependencies  list only package direct dependencies
-npm view package versions list all versions of package
-npm outdated  for update versions
-npm update update to wanted version
-npm i package -save-dev  install package in devDependencies (only for development)
-npm un package unistall package
+## Some basic npm commands
+**npm -v** version of npm
+**sudo npm i - g package**  install globally the package  package@version
+**npm init**   create the basic boilerplate package.json making questions setings
+**npm init --yes** sets all default values at basic boilerplate
+**npm i package** install a dependency
+**npm list** list dependencies three
+**npm list --depth=0** list all app dependencies
+**npm view package** list all metadata about package
+**npm view package dependencies**  list only package direct dependencies
+**npm view package versions** list all versions of package
+**npm outdated**  for update versions
+**npm update** update to wanted version
+**npm i package -save-dev**  install package in devDependencies (only for development)
+**npm un package** unistall package
 
 Semantic Versioning
 https://semver.org/
