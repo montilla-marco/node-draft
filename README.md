@@ -1,4 +1,4 @@
-vs code shortcut:
+# Welcome to this nodejs draft sandbox.
 
 npm:
 npm -v version of npm
